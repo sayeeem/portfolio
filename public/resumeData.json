@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Sayeem Ahmed",
+    "occupation": "Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "My name is Sayeem Ahmed and I am a developer on the Professional Services team at Vidyard. My background is based around web development, and web design. I am regarded as someone who takes mindful but a competitive approach when it comes to completing work. I am fueled by my passion for technology and creating new applications.",
+    "biop2": "Through my experience at Vidyard starting as a Technical Support Specialist to a developer I've gained an enormous amount of experience in project management, training and coaching, soft and technical skills. I've leveraged my critical thinking and management skills not only when developing software, but also while consulting clients on business software solutions and applications.",
+    "biop3": "In my free time I enjoy watching/ learning about how I can become a better developer, going to the gym, rock climbing, and playing soccer.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "sayeemahmed1995@gmail.com",
+    "phone": "226-791-0277",
+    "address": {
+      "city": "Waterloo",
+      "state": "Ontario",
+      "country": "Canada"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://gitconnected.com/sayeeem/resume",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sayeem-ahmed-830702107/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sayeeem",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Conestoga College, Canada",
+        "degree": "Information Technology Support Service (Co-op)",
+        "graduated": "2016",
+        "description": "Graduated with academic award of Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Vidyard",
+        "title": "Developer, Professional Services",
+        "years": "May 2019 - Present",
+        "description": "This role builds, delivers and maintains critical production software services. It involves working with customer requirements to propose solutions, create prototypes, design, develop, test, deploy and maintain production software services that solve defined customer problems."
+      },
+      {
+        "company": "",
+        "title": "Senior Technical Support Specialist",
+        "years": "Nov 2018 to May 2019",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "Technical Support Specialist",
+        "years": "Dec 2016 to Nov 2018",
+        "description": "This role requires working as part of the Customer Experience team to analyze technical queries and provide solutions to Vidyard's customers regarding the SaaS platform. These queries tend to be regarding (but are not limited to) HTML/CSS Player Embedding, Encoding, Analytics, Video Playback, and Integrations into Salesforce / Marketing Automation Platforms such as Marketo, Eloqua, HubSpot and Act-on."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5, CSS3 (Sass)",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript, jQuery",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "40%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "30%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Vidyard CTA Catalog",
+        "summary": "Standardized menu of Professional Services offerings",
+        "description": "We want to investigate creating a publicly-accessible webpage that can be sent to customers and prospects to help them visualize opportunities to engage Professional Services for standard event development, which will also serve as a menu of CTAs that qualify as options for standard CTA development. They can view the catalog on their own time prior to purchasing at various stages in Vidyard's sales cycle but likely will be later in the deal cycle or after the decision has been made to purchase Professional Services.",
+        "languages": "JavaScript, React, Material-UI",
+        "image": "services-catalog.png",
+        "url": "https://services.vidyard.com/"
+      },
+      {
+        "title": "Custom Video Hub Layout",
+        "summary": "TBD",
+        "description": "TBD",
+        "languages": "JavaScript, HTML, SASS, Ruby on Rails",
+        "image": "custom-video-hub.png",
+        "url": "https://cytiva-custom-layout-phase-2.hubs.vidyard.com/"
+      },
+      {
+        "title": "Custom Playlist View",
+        "summary": "Created a custom playlist experience using the Vidyard Player API on a standard Vidyard Branded Sharing Page.",
+        "description": "TBD",
+        "languages": "JavaScript, jQuery, HTML, CSS",
+        "image": "custom-playlist-view.png",
+        "url": "https://share.vidyard.com/watch/CmFSfAoqZhEpCAom7cqZuA"
+      },
+      {
+        "title": "vy-cli",
+        "summary": "Vidyard CLI to speed up Call-To-Action development.",
+        "description": "vy-cli tool that can be used by customer developers to easily develop custom CTAs (local dev server, live reload rather than copy/paste trial and error in the in-platform editor). Great way to empower customers to create CTAs more easily.",
+        "languages": "TypeScript, HTML, CSS, Handlebars.js",
+        "image": "vy-cli.png",
+        "url": "https://www.npmjs.com/package/@vidyard/vy-cli"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sayeem is a conscientious and extremely focused software developer with whom I feel fortunate to have worked. Sayeem's background working directly with customers serves him extremely well as a developer. His empathy for users and eagerness to understand each use case was very beneficial and enabled him to solve problems in ways that ensured clients got the value they needed from our solutions. His eagerness to learn and develop new skills as well as his collaborative nature make him a great asset for any development team!",
+        "user": "Steve Lyall, Technology Leader & Software Craftsman - Direct Manager"
+      },
+      {
+        "text": "TBD",
+        "user": "Greg Peterson, Full Stack Developer - Senior Team Member"
+      }
+    ]
+  }
+}
