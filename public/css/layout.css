@@ -719,7 +719,7 @@ ul#nav li.current a {
 }
 .card__thumb img {
   display: block;
-  opacity: 1;
+  opacity: 0.9;
   transform: scale(1);
   transition: opacity 0.5s, transform 0.5s;
 }
@@ -737,7 +737,7 @@ ul#nav li.current a {
   **/
 .card__body {
   position: relative;
-  height: 185px;
+  height: 165px;
   padding: 20px;
   transition: height 0.5s;
 }
@@ -764,6 +764,7 @@ ul#nav li.current a {
   font-size: 22px;
   font-weight: bold;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .card__subtitle {
@@ -771,6 +772,7 @@ ul#nav li.current a {
   padding: 0 0 10px 0;
   font-size: 19px;
   color: #f06000;
+  text-align: center;
 }
 
 .card__description {
@@ -782,6 +784,7 @@ ul#nav li.current a {
   transform: translateY(45px);
   transition: opacity 0.3s, transform 0.3s;
   transition-delay: 0s;
+  text-align: center;
 }
 .card:hover .card__description {
   opacity: 1;
@@ -922,7 +925,7 @@ call-to-action .button {
 }
 #testimonials blockquote cite {
   display: block;
-  font-size: 12px;
+  font-size: 15px;
   font-style: normal;
   line-height: 18px;
   color: #fff;
@@ -934,6 +937,16 @@ call-to-action .button {
 #testimonials blockquote cite a:visited {
   color: #8b9798;
   border: none;
+}
+#testimonials
+  > div
+  > div
+  > div.ten.columns.flex-container
+  > ul
+  > li:nth-child(1)
+  > blockquote {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 28px;
 }
 
 /* Flex Slider

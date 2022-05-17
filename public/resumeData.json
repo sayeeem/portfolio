@@ -20,7 +20,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/sayeem-ahmed-830702107/",
+        "url": "https://www.linkedin.com/in/sayeemahmed/",
         "className": "fa fa-linkedin"
       },
       {
@@ -74,10 +74,6 @@
         "level": "60%"
       },
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
         "name": "NodeJS",
         "level": "40%"
       },
@@ -88,6 +84,10 @@
       {
         "name": "Ruby on Rails",
         "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
       }
     ]
   },
@@ -103,16 +103,16 @@
       },
       {
         "title": "Custom Video Hub Layout",
-        "summary": "TBD",
-        "description": "TBD",
+        "summary": "Custom built new video hub experience",
+        "description": "Vidyard will develop custom video hub branding and layout adjustments for Cytiva's video hub.",
         "languages": "JavaScript, HTML, SASS, Ruby on Rails",
         "image": "custom-video-hub.png",
         "url": "https://cytiva-custom-layout-phase-2.hubs.vidyard.com/"
       },
       {
         "title": "Custom Playlist View",
-        "summary": "Created a custom playlist experience using the Vidyard Player API on a standard Vidyard Branded Sharing Page.",
-        "description": "TBD",
+        "summary": "Custom playlist experience on a standard Vidyard Branded Sharing Page.",
+        "description": "Created a custom playlist experience using the Vidyard Player API on a standard Vidyard Branded Sharing Page allowing viewers to navigate between videos in the player's playlist. ",
         "languages": "JavaScript, jQuery, HTML, CSS",
         "image": "custom-playlist-view.png",
         "url": "https://share.vidyard.com/watch/CmFSfAoqZhEpCAom7cqZuA"
@@ -124,6 +124,14 @@
         "languages": "TypeScript, HTML, CSS, Handlebars.js",
         "image": "vy-cli.png",
         "url": "https://www.npmjs.com/package/@vidyard/vy-cli"
+      },
+      {
+        "title": "Lotería - Shopify",
+        "summary": "Joined the #codeshow to build Lotería in Typescript with React.",
+        "description": "Had some fun building Lotería with the team and designed it in a way to make it more Shopify themed. Check out the link and try it out!",
+        "languages": "TypeScript, React",
+        "image": "loteria-shopify.png",
+        "url": "https://sayeem-loteria-shopify.netlify.app/"
       }
     ]
   },
@@ -131,10 +139,14 @@
     "testimonials": [
       {
         "text": "Sayeem is a conscientious and extremely focused software developer with whom I feel fortunate to have worked. Sayeem's background working directly with customers serves him extremely well as a developer. His empathy for users and eagerness to understand each use case was very beneficial and enabled him to solve problems in ways that ensured clients got the value they needed from our solutions. His eagerness to learn and develop new skills as well as his collaborative nature make him a great asset for any development team!",
+        "text2": "",
+        "text3": "",
         "user": "Steve Lyall, Technology Leader & Software Craftsman - Direct Manager"
       },
       {
-        "text": "TBD",
+        "text": "In my time at Vidyard, I worked with Sayeem on the Professional Services team. He is an outstanding and very positive person to work with. He doesn’t shy away from a challenge and he is super eager to learn. I found mentoring Sayeem, as a software developer, quite rewarding as he was always so keen on learning new things, and then turning around and implementing them. His abilities and knowledge as someone who is self taught, are awesome to behold.",
+        "text2": "Sayeem is one of those co-workers that we all hope to have. He’s always there, supporting clients, supporting team members, and supporting anyone who asks for help. Being a good software developer is not just about technical skills, it is also about soft-skills, and Sayeem excels in his person to person communication, attitude and self-organization.",
+        "text3": "As he keeps leveling up, he’s going to become more of an invaluable software developer than he already is, and any team would be lucky to have him.",
         "user": "Greg Peterson, Full Stack Developer - Senior Team Member"
       }
     ]

@@ -7,6 +7,8 @@ const Testimonials = ({ data }) => {
         <li key={testimonials.user}>
           <blockquote>
             <p>{testimonials.text}</p>
+            {testimonials.text2 !== "" ? <p>{testimonials.text2}</p> : null}
+            {testimonials.text3 !== "" ? <p>{testimonials.text3}</p> : null}
             <cite>{testimonials.user}</cite>
           </blockquote>
         </li>

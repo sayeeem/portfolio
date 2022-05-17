@@ -11,7 +11,6 @@ const About = ({ data }) => {
     var city = data.address.city;
     var state = data.address.state;
     var zip = data.address.zip;
-    var phone = data.phone;
     var email = data.email;
     var resumeDownload = data.resumedownload;
   }
@@ -50,9 +49,9 @@ const About = ({ data }) => {
                 {country}
               </span>
               <br />
-              <span>{phone}</span>
-              <br />
-              <span>{email}</span>
+              <span>
+                <a href="mailto:sayeemahmed1995@gmail.com">{email}</a>
+              </span>
             </p>
           </div>
         </div>
